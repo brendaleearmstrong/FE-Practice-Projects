@@ -97,7 +97,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #4eb5f1; /* Example hover color */
+    color: #4eb5f1; /* Example hover color for when link is active */
 }
 
 footer {
@@ -107,7 +107,7 @@ footer {
     width: 100%;
     text-align: center;
     padding: 10px;
-    background-color: #333; /* Example background color */
-    color: white; /* Example text color */
+    background-color: #333; 
+    color: white; 
     font-size: 14px;
 }
